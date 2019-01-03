@@ -10,11 +10,11 @@ You have to divide them into two piles so that:
  
 ## Strategy
 
-One population has many chromosomes.
-Each chromosome is represented by an integer.
-The binary form of this chromosome represents the genes.
-A gene can have a value of 0 or 1.
-A gene with a value of 1 means it's the products side (second pile) and vice versa.
+- One population has many chromosomes.
+- Each chromosome is represented by an integer.
+- The binary form of this chromosome represents the genes.
+- A gene can have a value of 0 or 1.
+- A gene with a value of 1 means it's the products side (second pile) and vice versa.
 
 
 ## Implementation
