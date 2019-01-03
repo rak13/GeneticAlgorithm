@@ -21,6 +21,6 @@ You have to divide them into two piles so that:
 Make a new population of chromosomes (repeatedly)
 - Randomly (based on crossover probability) select two chromosomes, perform crossover to make a new chromosome
 - If new chromosome is has greater fitness then replace the least fit chromosome in the existing population
-- Randomly select a chromosome in population and do a mutation on it
+- Randomly (based on mutation probability) select a chromosome in population and do a mutation on it
 		
 Keep track of the best chromosome whenever a new chromosome is generated.
