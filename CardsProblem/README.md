@@ -10,7 +10,7 @@ You have to divide them into two piles so that:
  
 ## Strategy
 
->One population has many chromosomes.
+One population has many chromosomes.
 Each chromosome is represented by an integer.
 The binary form of this chromosome represents the genes.
 A gene can have a value of 0 or 1.
